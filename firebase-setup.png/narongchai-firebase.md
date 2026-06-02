@@ -13,3 +13,4 @@ Role: Cloud / Integration Developer
 ## Status
 
 Doing
+firebase-setup.png/ภาพถ่ายหน้าจอ 2569-06-01 เวลา 21.30.13.png
